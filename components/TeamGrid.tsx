@@ -5,20 +5,20 @@ import { SimpleGrid, Card, Avatar, Text, Group, Button, Title, Container } from 
 const teamMembers = [
   {
     name: 'Jonathan Pham',
-    role: 'Machine Learning & Backend Engineer',
-    bio: 'Jonathan spearheaded the architectural pipelines, conducting rigorous exploratory data analysis and training the classification models on the LARCC HPC.',
+    role: 'DevOps/Arch & ML Engineer',
+    bio: 'Jonathan spearheaded the architectural & system designs, acting as tech lead setting up robust cloud infrastructure & defining technical implementation and business requirements.',
     link: 'https://www.linkedin.com/in/jonathan-pham-0658a23b4/',
   },
   {
     name: 'Justin Nguyen',
     role: 'Machine Learning & Backend Engineer',
-    bio: 'Justin co-led the backend logic and ML development, focusing on hyperparameter tuning with Optuna and building the FastAPI endpoints.',
+    bio: 'Justin leads the backend and ML development, spearheading the exploratory data analysis and LARCC HPC resources, as well as optimizing model performance and deployment.',
     link: 'https://www.linkedin.com/in/justin-nguyen-b06a40286/',
   },
   {
     name: 'Kevin Bach',
-    role: 'DevOps Engineer & Frontend',
-    bio: 'Kevin manages the scalable AWS environment (S3, EC2, MLFlow) and ensures a seamless deployment pipeline from local code to cloud hosting.',
+    role: 'Database & Frontend Engineer',
+    bio: 'Kevin developed the database architecture, contributing to securing authentication flows and frontend integration - heavily involved in fast prototyping and good UX.',
     link: 'https://www.linkedin.com/in/kevin-bach-code/',
   },
   {
