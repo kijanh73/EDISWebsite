@@ -13,4 +13,5 @@ export default withBundleAnalyzer({
   images: {
     unoptimized: true,
   },
+  basePath: "/2026/spring/predicting-ovarian-cancer"
 });

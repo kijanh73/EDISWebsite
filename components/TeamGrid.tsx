@@ -7,7 +7,7 @@ const teamMembers = [
     name: 'Jonathan Pham',
     role: 'Machine Learning & Backend Engineer',
     bio: 'Jonathan spearheaded the architectural pipelines, conducting rigorous exploratory data analysis and training the classification models on the LARCC HPC.',
-    link: null,
+    link: 'https://www.linkedin.com/in/jonathan-pham-0658a23b4/',
   },
   {
     name: 'Justin Nguyen',
