@@ -81,7 +81,7 @@ export function Acknowledgments() {
           <Group wrap="nowrap" align="flex-start">
             <ThemeIcon size={40} color="orange" variant="light" mt={4}><IconUsersGroup size={20} /></ThemeIcon>
             <div>
-              <Text fw={700}>Dr. van Berkel</Text>
+              <Text fw={700}>Dr. Victor van Berkel</Text>
               <Text c="teal" size="xs" fw={600}>Department Connection</Text>
               <Text size="sm" c="dimmed" mt="xs">Facilitated the introduction between the capstone team and Dr. Frieboes' bioengineering lab, enabling the cross-disciplinary ML advisory relationship.</Text>
             </div>

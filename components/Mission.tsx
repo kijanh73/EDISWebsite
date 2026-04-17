@@ -11,7 +11,7 @@ export function Mission() {
           <Text c="teal" fw={700} tt="uppercase" size="sm" style={{ letterSpacing: '1.5px' }}>Clinical Impact</Text>
           <Title order={2} size="h1" mb="md">Why Early Detection Matters</Title>
           <Text c="dimmed" size="lg" mb="md">
-            Ovarian cancer is the most lethal malignancy of the female reproductive system. The five-year survival rate at Stage I is over 90%, but it drops dramatically when diagnosed at later stages.
+            Ovarian cancer is often asymptomatic in its early stages. The five-year survival rate at Stage I is over 90%, but it drops dramatically when diagnosed at later stages.
           </Text>
           <Text c="dimmed" size="lg">
             Because symptoms are often vague or entirely absent during early progression, a vast majority of cases are not caught until Stage III or IV. By leveraging machine learning on standard blood panels, we are building a bridge between routine clinical check-ups and specialized oncology care, flagging high-risk patients before the window for early intervention closes.
